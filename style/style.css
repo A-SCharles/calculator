@@ -1,0 +1,19 @@
+form {
+width: fit-content;
+height: fit-content;
+border: 1px solid black;
+padding: 10px;
+} 
+
+table {
+    margin: auto;
+    text-align: center;
+    border: 1px solid black;
+    margin-top: 1em;
+}
+
+table td, table th{
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+}
